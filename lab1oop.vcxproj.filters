@@ -15,10 +15,13 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="pb10.c">
+    <ClCompile Include="pb1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="pb1.c">
+    <ClCompile Include="lab1oop\pb10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="pb5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
